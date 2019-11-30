@@ -1,0 +1,27 @@
+.Badge__item {
+  background-color: #FFFFFF;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10);
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.Badge__item-image {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Badge__item-image img {
+  border-radius: 50%;
+}
+
+.Badge_item-description {
+  width: 80%;
+}
+
+.Badge_item-description p {
+  margin-bottom: .2em;
+}
