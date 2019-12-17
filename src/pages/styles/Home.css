@@ -9,6 +9,8 @@ img {
   width: 100vw;
   min-height: 100vh;
   background: url('../../images/stars.svg'), #1B1B25;
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
