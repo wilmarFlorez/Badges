@@ -4,7 +4,7 @@ Badges App to learn React.js
 
 ![App Screenshot](./.readme-static/screenshot.png)
 
-![See the App](https://platzi-badges-ruddy-three.now.sh/)
+[See the on production](https://badges.wflorez52.now.sh/)
 
 ## How does it work?
 
